@@ -1,0 +1,19 @@
+  body {
+    background-color: blue;
+  }
+  
+  .title {
+    color: darkblue;
+  }
+  
+  #email {
+    background-color: goldenrod;
+  }
+  
+  #github {
+    background-color: lightsteelblue;
+  }
+  
+  #portfolio {
+    background-color: darkorange;
+  }
