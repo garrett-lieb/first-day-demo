@@ -3,21 +3,23 @@
 }
 
 body {
-  background-color: lemonchiffon;
+  background-color: #f7f6ea;
 }
 
-header,
-footer {
+header {
   width: 100%;
   height: 100px;
   line-height: 100px;
-  color: #e6e3e3;
+  color: #ffffff;
   background-color: #015269;
 }
 
-figure {
-  width: 200px;
-  background-color: #d8d6cd;
+figure { 
+  width: 220px;
+  border-style: groove;
+  border-width: 10px;
+  color:#ffffff;
+  background-color: #015269;
 }
 
 .highlighted-text {
@@ -25,5 +27,16 @@ figure {
 }
 
 #contact-section {
-  background-color: #f0ead6;
+  width: 800px;
+  border-style: solid;
+  background-color: #fbffdb;
+  
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  color: #ffffff;
+  background-color: #015269;
 }
